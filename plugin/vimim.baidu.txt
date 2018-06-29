@@ -794,7 +794,7 @@ daoju 道具
 daole 到了
 daolun 导论
 daoru 导入
-daoshi 导师 到时
+daoshi 倒是 导师 到时
 daowo 到我
 daoyan 导演
 daozhi 导致
@@ -4181,7 +4181,7 @@ tijian 体检
 tijiao 提交
 tilian 提炼
 timu 题目
-ting 听 停 庭 厅 挺 亭 婷 廷 艇 町 霆 汀 铤 蜓 莛 梃 葶 烃 侱 侹 厛 圢 奠 奵 娗 嵉 庁 庍 廰 廳 忊 桯 楟 榳 涏 渟 濎 烴 烶 珵 珽 筳 綎 耓 聤 聴 聼 聽 脡 艼 蝏 誔 諪 邒 鋌 閮 鞓 頲 颋 鼮
+ting 挺 听 停 庭 厅 亭 婷 廷 艇 町 霆 汀 铤 蜓 莛 梃 葶 烃 侱 侹 厛 圢 奠 奵 娗 嵉 庁 庍 廰 廳 忊 桯 楟 榳 涏 渟 濎 烴 烶 珵 珽 筳 綎 耓 聤 聴 聼 聽 脡 艼 蝏 誔 諪 邒 鋌 閮 鞓 頲 颋 鼮
 tingcheng 听程
 tingde 听得
 tinghao 挺好
@@ -4193,6 +4193,7 @@ tingliu 停留
 tingpan 亭潘
 tingshuo 听说
 tingting 婷婷
+tingyou 挺有
 tingzhuo 听着
 tini 替你
 tiqu 提取
@@ -4529,6 +4530,7 @@ wuliu 物流 五六
 wulong 吴龙
 wulun 无论
 wumeng 吴梦
+wunao 无脑
 wunian 五年
 wuqiong 无穷
 wushi 五十 务实
@@ -5454,7 +5456,7 @@ zhanxiu 展袖
 zhanyong 占用
 zhanzao 站早
 zhanzhuo 沾着
-zhao 着 找 照 招 朝 赵 召 罩 兆 昭 肇 沼 诏 钊 啁 棹 笊 佋 啅 嘲 垗 妱 巶 旐 晁 曌 枛 桃 櫂 淖 濯 炤 燳 爪 爫 狣 瑵 皽 盄 瞾 窼 箌 罀 羄 肁 肈 菬 著 蚤 詔 謿 趙 釗 釽 鉊 鍣 駋 鮡 鳭 鼂 鼌
+zhao 找 着 照 招 朝 赵 召 罩 兆 昭 肇 沼 诏 钊 啁 棹 笊 佋 啅 嘲 垗 妱 巶 旐 晁 曌 枛 桃 櫂 淖 濯 炤 燳 爪 爫 狣 瑵 皽 盄 瞾 窼 箌 罀 羄 肁 肈 菬 著 蚤 詔 謿 趙 釗 釽 鉊 鍣 駋 鮡 鳭 鼂 鼌
 zhaoban 招办
 zhaobiao 招标
 zhaobing 招并
