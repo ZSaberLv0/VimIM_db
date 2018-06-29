@@ -1406,6 +1406,7 @@ gepan 个盘
 gequ 歌曲
 geren 个人 葛仁
 geshi 格式
+geshihua 格式化
 geshu 个数
 geti 各题
 gewei 各位
