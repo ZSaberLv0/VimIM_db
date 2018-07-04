@@ -3779,7 +3779,7 @@ shihe 适合
 shihou 时候 事后
 shihuai 释怀
 shiji 实际 时机
-shijian 事件 时间 实践
+shijian 时间 事件 实践
 shijianduan 时间段
 shijiao 视角
 shijie 世界
