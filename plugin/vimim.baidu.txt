@@ -114,7 +114,7 @@ bazhan 霸占
 bei 被 北 备 背 悲 辈 杯 倍 贝 碑 卑 蓓 惫 悖 狈 呗 焙 鹎 孛 邶 陂 埤 碚 褙 鐾 鞴 萆 钡 俻 俾 偝 偹 備 僃 哱 唄 喺 垻 怫 愂 憊 揹 昁 杮 柸 桮 梖 棑 棓 椑 波 牬 犕 狽 珼 琲 痺 盃 禙 箃 糒 苝 茀 菩 萯 葡 藣 蛽 蜚 襬 誖 諀 貝 跋 軰 輩 鄁 鉳 鋇 錍 鐴 骳 鵯
 beida 北大
 beifen 备份
-beijing 北京 背景
+beijing 背景 北京
 beilou 北楼
 beiqiao 北桥
 beiren 被人
@@ -836,6 +836,7 @@ dedao 得到
 dede 的的
 dedou 的豆
 defei 的非
+defen 得分
 degai 的该
 dehe 的和
 dehua 的话
@@ -1005,6 +1006,7 @@ dongyuan 动员
 dongzuo 动作
 dou 都 斗 豆 抖 逗 兜 陡 窦 蔸 蚪 篼 痘 乧 侸 兠 凟 剅 吺 唗 投 斣 枓 梪 橷 毭 氀 浢 渎 瀆 瞗 窬 竇 脰 艔 荳 讀 读 逾 郖 酘 酡 鈄 鋀 钭 閗 闘 阧 餖 饾 鬥 鬦 鬪 鬬 鬭
 doudong 抖动
+douhao 逗号
 douhen 都很
 doumei 都没
 doupin 都拼
@@ -2121,6 +2123,7 @@ jieti 解题 结题
 jieting 接听
 jietou 街头
 jietu 截图
+jiewei 结尾
 jiexi 解析
 jieya 嗟呀
 jieyi 介意
@@ -2809,6 +2812,7 @@ malu 马路
 mama 妈妈
 man 满 慢 漫 曼 蛮 馒 瞒 蔓 颟 谩 墁 幔 螨 鞔 鳗 缦 熳 镘 僈 埋 姏 嫚 屘 幕 悗 慲 摱 槾 樠 満 滿 澫 澷 獌 睌 瞞 矕 絻 縵 蔄 蘰 蟃 蟎 蠻 襔 謾 蹒 蹣 鄤 鏋 鏝 顢 饅 鬗 鬘 鰻
 mane 满额
+manfen 满分
 mang 忙 茫 盲 芒 氓 莽 蟒 邙 漭 硭 厖 吂 哤 壾 娏 尨 庬 恾 朚 朦 杗 杧 汒 浝 牤 牻 狵 甿 痝 盳 瞢 硥 笀 茻 莾 蘉 蛖 蠎 釯 鋩 铓 駹 鸏 鹲 龍 龒 龙
 mangguo 忙过
 mangma 忙吗
@@ -3197,6 +3201,7 @@ pi 批 否 皮 屁 披 疲 辟 啤 脾 匹 僻 劈 譬 坯 痞 癖 琵 毗 霹 �
 pian 便 片 篇 偏 骗 翩 扁 犏 谝 蹁 骈 缏 胼 囨 媥 平 徧 楄 楩 猵 璸 緶 腁 萹 蝙 褊 覑 諚 諞 貵 賆 跰 辩 辯 駢 騈 騗 騙 骿 魸 鶣
 pianhao 偏好
 pianren 骗人
+piantou 片头
 piao 票 漂 飘 瓢 嫖 瞟 骠 嘌 剽 朴 螵 缥 莩 殍 僄 勡 彯 徱 慓 摽 旚 潎 犥 皫 磦 篻 縹 翲 膘 蔈 薸 謤 醥 闝 顠 飃 飄 驃 驫 骉 髟 魒
 piaojia 票价
 piaoju 票据
@@ -3780,6 +3785,7 @@ shihou 时候 事后
 shihuai 释怀
 shiji 实际 时机
 shijian 时间 事件 实践
+shijianchuo 时间戳
 shijianduan 时间段
 shijiao 视角
 shijie 世界
@@ -4246,6 +4252,7 @@ tou 头 投 偷 透 钭 骰 亠 偸 埱 妵 婾 媮 愉 敨 斢 殕 紏 綉 緰 
 toubu 头部
 touchu 透出
 touchuan 透传
+touming 透明
 touru 投入
 touteng 头疼
 toutiao 头条
