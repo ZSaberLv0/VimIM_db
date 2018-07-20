@@ -759,6 +759,7 @@ dangran 当然
 dangshi 当时
 dangwei 党委
 dangyuan 党员
+dangzhu 挡住
 dangzu 党组
 danji 单机
 danju 单据
@@ -1280,6 +1281,7 @@ futu 附图
 fuwu 服务
 fuwuqi 服务器
 fuxi 复习
+fuxian 复现
 fuxiu 辅修
 fuyan 附言 敷衍
 fuyi 辅以
@@ -2485,7 +2487,7 @@ kuaile 快乐
 kuaisu 快速
 kualei 跨类
 kuan 款 宽 髋 完 寛 寬 梡 棵 欵 歀 窽 窾 鑧 顆 颗 髖
-kuang 况 狂 矿 框 旷 眶 筐 匡 哐 邝 诓 夼 诳 圹 纩 贶 丱 儣 兄 劻 匩 卝 壙 岲 廣 忹 恇 懬 懭 抂 昿 曠 枉 況 洭 湟 爌 狅 眖 矌 砿 硄 磺 礦 穬 筺 絋 絖 纊 誆 誑 貺 軖 軠 軦 軭 迋 逛 邼 鄺 鉱 鋛 鑛 鵟 黋
+kuang 框 况 狂 矿 旷 眶 筐 匡 哐 邝 诓 夼 诳 圹 纩 贶 丱 儣 兄 劻 匩 卝 壙 岲 廣 忹 恇 懬 懭 抂 昿 曠 枉 況 洭 湟 爌 狅 眖 矌 砿 硄 磺 礦 穬 筺 絋 絖 纊 誆 誑 貺 軖 軠 軦 軭 迋 逛 邼 鄺 鉱 鋛 鑛 鵟 黋
 kuangding 框定
 kuanghuan 狂欢
 kuangjia 框架
@@ -2879,6 +2881,7 @@ menhao 门号
 menya 门牙
 mi 米 密 秘 迷 弥 谜 觅 眯 蜜 靡 咪 谧 泌 糜 汨 宓 麋 醚 弭 敉 芈 祢 脒 幂 縻 嘧 蘼 猕 糸 侎 冖 冞 冪 劘 哋 塓 孊 宻 尒 尓 尔 峚 幎 幦 幺 彌 戂 摩 摵 擟 擵 攠 榓 樒 檷 櫁 沕 沵 洣 淧 渳 溟 滵 漞 濔 濗 瀰 灖 熐 爢 爾 獯 獼 瓕 眫 眽 瞇 瞴 祕 禰 穈 簚 籋 粎 罙 羃 羋 苾 葞 蒾 蓂 蔝 蔤 藌 蝆 袮 覓 覔 覛 詸 謎 謐 辟 醾 醿 釄 銤 鑖 镾 鸍 麊 麛 鼏
 mian 面 免 棉 眠 缅 绵 勉 腼 冕 娩 湎 沔 眄 黾 渑 丏 俛 偭 冥 勔 厸 喕 婂 媔 嬵 宀 愐 檰 櫋 汅 泯 湣 澠 牑 瞑 矈 矊 矏 糆 絻 綿 緍 緜 緡 緬 缗 臱 芇 莬 葂 蝒 蠠 靣 靦 鮸 麪 麫 麵 麺 黽
+mianban 面板
 mianbao 面包
 miandui 面对
 mianfei 免费
@@ -3844,7 +3847,7 @@ shizhan 实战
 shizheng 是正
 shizhong 始终
 shizi 师资
-shou 手 受 收 首 授 守 售 瘦 寿 兽 狩 绶 艏 収 嘼 垨 壽 夀 扌 掱 敊 涛 涭 濤 熟 獣 獸 痩 綬 膄 醻 鏉
+shou 收 手 受 首 授 守 售 瘦 寿 兽 狩 绶 艏 収 嘼 垨 壽 夀 扌 掱 敊 涛 涭 濤 熟 獣 獸 痩 綬 膄 醻 鏉
 shouban 首班
 shoucang 收藏
 shouce 手册
@@ -3949,6 +3952,7 @@ shuqi 暑期
 shuqing 树青
 shuru 输入
 shurufa 输入法
+shurukuang 输入框
 shusheng 书生
 shushi 舒适 属实
 shusong 书宋
@@ -4087,6 +4091,7 @@ tamiao 他喵
 tan 谈 探 弹 坦 叹 坛 摊 贪 滩 毯 谭 潭 瘫 炭 覃 痰 忐 坍 袒 碳 澹 檀 昙 镡 郯 锬 钽 但 倓 傝 僋 儃 啴 嗿 嘆 嘽 嘾 埮 墰 墵 壇 壜 婒 弾 彈 怹 惔 憛 憳 憻 掸 撢 撣 擹 攤 暺 曇 榃 橝 歎 沈 淡 湛 湠 漢 潬 灘 炎 璮 痑 癉 癱 禪 緂 繵 罈 罎 胆 舑 舔 舕 荨 菼 蕁 蕈 藫 裧 襢 談 譚 譠 貚 貪 賧 赕 醈 醓 醰 鉭 錟 顃 餤 鷤 黮
 tanchu 弹出
 tanchuang 弹窗
+tanchukuang 弹出框
 tandao 谈到
 tang 堂 唐 汤 躺 糖 趟 倘 烫 淌 膛 塘 棠 搪 溏 螳 瑭 樘 螗 铴 醣 镗 耥 饧 傥 帑 羰 伖 偒 傏 儻 劏 啺 嘡 坣 嵣 弹 愓 戃 扩 摥 擴 攩 曭 榶 橖 欓 湯 漟 漡 煻 燙 爣 矘 磄 禟 篖 簜 糃 糛 膅 荡 蓎 蕩 薚 蘯 蝪 赯 踼 蹚 逿 鄌 鎕 鎲 鏜 鐋 鐺 钂 铛 镋 閶 闛 闣 阊 隚 鞺 餳 餹 饄 鶶 黨 鼞
 tanghui 汤晖 唐慧
@@ -4121,6 +4126,7 @@ tehua 特化
 tei 忒
 teng 腾 疼 藤 誊 滕 僜 儯 幐 漛 痋 籐 籘 縢 膯 虅 螣 謄 邆 霯 駦 騰 驣 鰧 鼟
 tengxun 腾讯
+tequan 特权
 tese 特色
 teshu 特殊
 texiao 特效
@@ -4148,7 +4154,7 @@ tianxie 填写
 tianyu 恬雨
 tianyue 舔越
 tianze 天泽
-tiao 跳 条 调 挑 迢 眺 鲦 佻 苕 窕 髫 粜 笤 龆 祧 蜩 儵 咷 啁 姚 嬥 宨 岧 岹 庣 恌 斢 旫 晀 朓 朷 桃 條 樤 祒 稠 窱 糶 絩 聎 脁 脩 艞 芀 萔 蓚 蓧 蓨 螩 覜 誂 調 超 趒 趠 踔 銚 鋚 鎥 铫 鞗 頫 鯈 鰷 齠
+tiao 条 跳 调 挑 迢 眺 鲦 佻 苕 窕 髫 粜 笤 龆 祧 蜩 儵 咷 啁 姚 嬥 宨 岧 岹 庣 恌 斢 旫 晀 朓 朷 桃 條 樤 祒 稠 窱 糶 絩 聎 脁 脩 艞 芀 萔 蓚 蓧 蓨 螩 覜 誂 調 超 趒 趠 踔 銚 鋚 鎥 铫 鞗 頫 鯈 鰷 齠
 tiaochu 挑出
 tiaode 条的
 tiaoji 调剂
@@ -4158,6 +4164,7 @@ tiaolu 条路
 tiaoma 条码
 tiaomu 条目
 tiaoshi 调试
+tiaoshu 条数
 tiaotong 调通
 tiaozao 跳蚤
 tiaozhan 挑战
@@ -4206,6 +4213,7 @@ tini 替你
 tiqu 提取
 tisheng 提升
 tishi 提示
+tishikuang 提示框
 tiwei 题为 体卫
 tiwen 提问
 tixi 体系
@@ -4442,7 +4450,7 @@ weiyuan 委员
 weiyue 违约
 weiyun 微云
 weizhang 伟张
-weizhi 未知 位置
+weizhi 位置 未知
 weizhong 为重
 weizhu 为主
 wen 文 问 闻 温 稳 吻 纹 蚊 雯 紊 瘟 汶 刎 阌 璺 免 呅 呚 呡 問 塭 妏 娩 彣 忞 忟 愠 慍 抆 揾 搵 昧 昷 桽 榅 榲 歾 殁 殟 渂 溫 炆 煴 珳 瑥 瘒 眼 砇 穏 穩 笏 紋 絻 緼 縕 缊 聞 肳 脕 脗 芠 莬 蕰 蕴 薀 藴 蘊 蚉 螡 蟁 褞 豱 輼 轀 辒 鈫 鎾 閺 閿 闅 闦 限 韞 韫 顐 饂 馼 魰 鰛 鰮 鳁 鳼 鴍 鴖 鼤
@@ -4921,6 +4929,7 @@ yankai 严凯
 yankan 眼看
 yanke 严苛
 yanluo 燕罗
+yanse 颜色
 yanshen 延伸
 yanshi 演示
 yanshou 验收
@@ -5488,6 +5497,7 @@ zhazha 渣渣
 zhe 这 着 者 折 哲 浙 遮 辙 辄 谪 蔗 蛰 褶 鹧 锗 磔 摺 蜇 赭 柘 乇 仛 厇 啠 喆 嗫 嗻 嘀 嚞 囁 埑 堵 嫬 庶 悊 慹 扸 摂 摄 攝 斥 慴 晢 晣 杔 棏 樀 樜 歽 淛 潪 矺 砓 籷 粍 耷 聂 聑 聶 虴 蟄 蟅 袩 褚 襵 詟 謫 謶 謺 讁 讋 軼 輒 輙 轍 轶 這 適 銸 鍺 陬 馲 驝 鮿 鷓 鷙 鸷
 zhecai 这才
 zheci 这次 这词
+zhedang 遮挡
 zhedao 这道
 zheduan 这段
 zheer 这儿
