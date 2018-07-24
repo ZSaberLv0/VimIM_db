@@ -367,6 +367,7 @@ caishui 财税
 caiwu 财务
 caixiang 才像
 caiyang 采样
+caiyanglv 采样率
 caiyao 菜肴
 caiyong 采用
 caiyou 才有
@@ -3697,6 +3698,7 @@ sheng 生 声 省 胜 升 圣 盛 剩 牲 绳 甥 笙 渑 眚 嵊 晟 丞 乗 �
 shengchan 生产
 shengcheng 生成 声称
 shengcun 生存
+shengdao 声道
 shengde 生的
 shengfen 省份
 shengfu 胜负
