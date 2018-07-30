@@ -1182,6 +1182,7 @@ fansuo 繁琐
 fanti 繁体
 fanwei 范围
 fanxiang 反向
+fanye 翻页
 fanyi 翻译
 fanying 反映
 fanyu 泛域
@@ -3973,7 +3974,7 @@ sichou 丝绸
 sifeng 四风
 sige 四个
 sihu 似乎
-sijia 四加
+siji 死机
 sikao 思考
 sile 死了
 silu 思路
