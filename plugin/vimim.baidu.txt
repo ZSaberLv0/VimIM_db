@@ -1440,6 +1440,7 @@ gonghui 工会
 gongji 攻击
 gongjian 共建
 gongjiao 公交
+gongjijin 公积金
 gongju 工具
 gongkai 公开
 gongke 工科
@@ -5748,6 +5749,7 @@ zhuchi 主持
 zhudi 朱迪
 zhudong 主动
 zhuduo 诸多
+zhufang 住房
 zhufu 祝福
 zhugan 主干
 zhuge 逐个
