@@ -740,6 +740,7 @@ damingdingding 大名鼎鼎
 dan 但 单 担 弹 淡 旦 蛋 胆 诞 丹 耽 惮 眈 啖 澹 掸 殚 箪 瘅 赕 疸 聃 氮 萏 郸 儋 亻 丼 亶 伔 倓 僤 儃 冄 冉 刐 勯 匰 単 呾 唌 啗 啿 單 嘾 噉 噡 嚪 坛 壇 妉 娊 媅 帎 弾 彈 忱 怛 惔 愖 憚 憺 憾 抌 撢 撣 擔 柦 檐 欿 殫 沊 泹 湛 潭 澶 澸 燀 狚 玬 瓭 甔 疍 癉 癚 皽 石 砃 禫 窞 簞 紞 繵 耼 聸 腅 膻 膽 蜑 蜒 蟺 衴 褝 襌 襜 覘 觇 觛 訑 詹 誕 譂 贉 贍 赡 蹛 躭 鄲 酖 醈 霮 頕 餤 饏 馾 駳 髧 鴠 黕 黮 黵
 danbi 胆壁
 danbiao 单表
+danchu 淡出
 danchun 单纯
 danci 单词
 dancong 但从
@@ -1145,6 +1146,7 @@ fangai 妨碍
 fangan 方案
 fangbian 方便
 fangcha 方差
+fangda 放大
 fangfa 方法
 fangfan 防范
 fangfei 放飞
@@ -3161,6 +3163,7 @@ paicha 排查
 paichu 排除
 paide 拍的
 paihang 排行
+paihangbang 排行榜
 pailie 排列
 paimai 拍卖
 paiming 排名
@@ -3902,6 +3905,7 @@ shuan 涮 栓 拴 闩 專 栒 槫 汕 腨 踹 閂
 shuang 双 爽 霜 孀 泷 傱 塽 孇 慡 樉 欆 淙 滝 漺 瀧 灀 礵 縔 艭 鏯 雙 騻 驦 骦 鷞 鸘 鹴
 shuangbian 双边
 shuangchuang 双创
+shuangji 双击
 shuangkuai 爽快
 shuanglong 双龙
 shuangran 霜染
@@ -4028,6 +4032,7 @@ suodai 所带
 suode 所得
 suoding 锁定
 suoduan 缩短
+suofang 缩放
 suohan 所含
 suojian 所见
 suojin 缩进
@@ -4254,7 +4259,7 @@ tongxu 铜须
 tongxue 同学 童靴
 tongxun 通讯
 tongyang 同样
-tongyi 同一 同意 统一
+tongyi 统一 同一 同意
 tongyige 同一个
 tongyong 通用
 tongzhi 通知 同志
@@ -4696,6 +4701,7 @@ xiaoxu 小徐
 xiaoyang 小杨
 xiaoyao 小妖
 xiaoyi 效益
+xiaoyu 小于
 xiaoyuan 校园 校院
 xiaozhang 校长 小张 销账
 xiaozu 小组
@@ -5017,7 +5023,7 @@ yibei 已被
 yibian 以便
 yibing 一并
 yibu 异步
-yichang 异常
+yichang 已唱 异常
 yichu 溢出
 yici 一次 以此
 yidao 驿道
