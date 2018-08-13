@@ -1472,6 +1472,7 @@ gongying 供应
 gongyuan 公园
 gongzheng 公正
 gongzhong 公众
+gongzhonghao 公众号
 gongzi 工资
 gongzuo 工作
 gongzuoliang 工作量
