@@ -551,7 +551,7 @@ chongwen 重温
 chongxie 重写
 chongxin 重新
 chongzai 重载
-chongzhi 充值
+chongzhi 重制 充值
 chongzhuang 重装
 chou 抽 愁 仇 丑 筹 臭 酬 绸 踌 瞅 惆 畴 稠 雠 俦 帱 瘳 丒 侴 偢 儔 吜 嚋 圳 妯 婤 媿 嬦 幬 怞 懤 扭 掫 揄 搊 擣 杻 杽 栦 椆 檮 殠 溴 燽 牰 犨 犫 畤 疇 皗 盩 眣 矁 篘 籌 紬 䌷 絒 綢 臰 菗 薵 裯 詶 謅 譸 讎 讐 诌 诪 跾 躊 遚 酧 醔 醜 醻 鈕 钮 雔 魗 鮘 鯈 鲋
 choucuo 筹措
@@ -1115,6 +1115,7 @@ eryan 而言
 eryi 而已 而异
 erzhe 二者 而这
 ewai 额外
+exin 恶心
 eyao 扼要
 fa 发 法 罚 乏 伐 阀 砝 筏 垡 珐 佱 傠 姂 廢 彂 拔 拨 撥 栰 橃 汎 沷 泛 灋 琺 疺 発 發 瞂 笩 罰 罸 茷 蕟 藅 貶 贬 醗 醱 鍅 閥 髪 髮
 fabao 发包
@@ -2143,6 +2144,7 @@ jifang 机房
 jige 几个
 jigou 机构
 jihe 级和 集合 几何 机和
+jihu 几乎
 jihua 计划
 jihui 机会
 jihuo 激活
@@ -2916,7 +2918,7 @@ mingdan 名单
 minghua 明华
 mingju 名句
 mingling 命令
-mingming 命名
+mingming 明明 命名
 mingnian 明年
 mingpian 名片
 mingque 明确
