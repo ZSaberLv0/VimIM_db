@@ -162,6 +162,7 @@ bianhao 编号
 bianhua 变化
 bianhuan 变换
 bianji 编辑
+bianjiao 边角
 bianjie 便捷
 biankuang 边框
 bianli 便利
@@ -2470,7 +2471,7 @@ kongbai 空白
 kongbiao 空表
 kongfan 空泛
 kongfu 空腹
-kongjian 空间
+kongjian 控件 空间
 kongma 控吗
 kongmeng 孔孟
 kongnan 恐难
