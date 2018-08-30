@@ -3872,6 +3872,7 @@ shoudu 首都
 shouduan 手段
 shoufa 收发
 shoufang 收房
+shoufei 收费
 shoufu 首付
 shougan 手感
 shouhang 首行
