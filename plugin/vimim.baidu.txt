@@ -1865,6 +1865,7 @@ huida 回答
 huidao 回到
 huide 会的
 huidiao 回调
+huifang 回放
 huifei 会费
 huifu 恢复 回复
 huigu 回顾
@@ -2213,7 +2214,7 @@ jingzhu 敬祝
 jinhou 今后
 jinhuo 进货
 jinian 纪念
-jinji 禁忌 晋级
+jinji 紧急 禁忌 晋级
 jinjin 仅仅 紧紧
 jinka 金卡
 jinkou 进口
