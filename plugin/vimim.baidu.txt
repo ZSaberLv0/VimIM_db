@@ -5746,6 +5746,7 @@ zhuanhuan 转换
 zhuanjia 专家
 zhuanli 专利
 zhuanmen 专门
+zhuanpan 转盘
 zhuanshuo 专硕
 zhuanti 篆体 专题
 zhuanwen 撰文
