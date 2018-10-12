@@ -5914,6 +5914,7 @@ zun 尊 遵 樽 鳟 僎 僔 噂 墫 奠 嶟 拵 捘 捽 栫 瀳 繜 罇 袸 譐 
 zunjing 尊敬
 zunlan 樽懒
 zunshou 遵守
+zunxun 遵循
 zunzhao 遵照
 zunzhong 尊重
 zunzhu 遵嘱
