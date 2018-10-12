@@ -1246,6 +1246,7 @@ fenliang 分量
 fenmiao 分秒
 fenpai 分派
 fenpei 分配
+fenping 分屏
 fenshu 分数
 fensi 粉丝
 fenwei 分为 氛围
