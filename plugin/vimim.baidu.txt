@@ -2133,6 +2133,7 @@ jieping 截屏
 jiequ 截取
 jieri 节日
 jieru 接入 介入
+jierufang 接入方
 jieshao 介绍
 jieshi 解释 揭示
 jieshou 接受 接收 接手 解手
@@ -4820,6 +4821,7 @@ xinshang 欣赏
 xinsheng 新生
 xintao 鑫涛
 xintiao 心跳
+xintiaobao 心跳包
 xintong 信通
 xinwen 新闻
 xinxi 信息
