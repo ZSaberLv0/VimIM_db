@@ -197,7 +197,7 @@ biaoye 表也
 biaoyin 标引
 biaoza 表咱
 biaozheng 表征
-biaozhi 标志
+biaozhi 标识 标志
 biaozhong 表中
 biaozhun 标准
 bibao 闭包
