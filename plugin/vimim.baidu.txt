@@ -697,6 +697,7 @@ cuoci 措辞
 cuoshi 措施
 cuowei 错位
 cuowu 错误
+cuowuma 错误码
 cuqi 促其
 d 的
 da 大 打 达 答 搭 瘩 嗒 沓 耷 褡 鞑 笪 靼 怛 妲 哒 疸 亣 剳 匒 呾 咑 噠 垯 塌 塔 墶 憚 搨 撘 橽 毼 汏 溚 炟 燵 畗 畣 眔 矺 笚 繨 羍 胆 荅 荙 薘 蟽 觰 詚 跶 躂 迏 迖 迭 逹 達 鎉 鎝 鐽 韃 龖 龘
@@ -5620,7 +5621,7 @@ zhifu 支付
 zhifubao 支付宝
 zhihao 只好
 zhihou 之后 滞后
-zhijian 质检
+zhijian 之间 质检
 zhijie 直接
 zhijin 至今
 zhijing 直径
