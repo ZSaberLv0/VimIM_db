@@ -2778,6 +2778,7 @@ lufei 路费
 lugui 鲁桂
 lujing 路径
 lun 论 轮 伦 沦 仑 抡 囵 纶 侖 倫 圇 埨 婨 崘 崙 惀 掄 棆 淪 溣 睔 碖 磮 稐 綸 耣 腀 菕 蜦 論 踚 輪 錀 陯 鯩
+lunbo 轮播
 lunli 论理
 lunshu 论述
 luntan 论坛
