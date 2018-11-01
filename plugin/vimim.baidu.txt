@@ -2703,7 +2703,7 @@ lingluan 凌乱
 lingqing 另请
 lingqu 领取
 lingwai 另外
-lingxing 菱形
+lingxing 另行 菱形
 lingyou 另有
 lingyu 领域
 lingyuan 陵园 令媛
@@ -2882,6 +2882,7 @@ meiri 每日
 meishi 没事
 meiti 媒体
 meitian 每天
+meituan 美团
 meiwen 美文
 meixi 美汐
 meixiao 每校
@@ -4361,6 +4362,7 @@ wai 外 歪 崴 呙 咼 喎 夭 瀤 竵 顡
 waibao 外包
 waibu 外部
 waichu 外出
+waichuan 外传
 waide 外的
 waifang 外方
 waiguan 外观
