@@ -2155,6 +2155,7 @@ jiezhi 截止
 jiezhu 借助
 jiezou 节奏
 jifang 机房
+jifen 积分
 jige 几个
 jigou 机构
 jihe 级和 集合 几何 机和
