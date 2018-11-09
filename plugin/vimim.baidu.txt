@@ -586,6 +586,7 @@ chuangyi 创意
 chuangzao 创造
 chuangzuo 创作
 chuanmei 传媒
+chuanru 传入
 chuanshu 传输
 chuantong 传统
 chuanzhen 传真
