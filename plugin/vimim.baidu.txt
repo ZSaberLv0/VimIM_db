@@ -2385,6 +2385,7 @@ kaihui 开会
 kaiji 开机
 kaikuo 开阔
 kaipeng 开鹏
+kaiqi 开启
 kaishi 开始
 kaiti 开题
 kaitong 开通
@@ -5054,7 +5055,7 @@ yibei 已被
 yibian 以便
 yibing 一并
 yibu 异步
-yichang 已唱 异常
+yichang 异常 已唱
 yichu 溢出
 yici 一次 以此
 yidao 驿道
