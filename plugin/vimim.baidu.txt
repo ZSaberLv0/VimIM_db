@@ -1287,6 +1287,7 @@ fujian 附件 福建
 fujin 附近
 fukuan 付款
 fulei 父类
+fuli 福利
 fulu 附录
 fumei 赴美
 fumian 负面
