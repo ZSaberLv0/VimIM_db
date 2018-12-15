@@ -2367,7 +2367,7 @@ juran 居然
 jurong 句容
 jushuo 据说
 juti 具体
-jutou 巨头
+jutou 剧透 巨头
 juxian 局限
 juxing 矩形
 juyou 具有
@@ -3813,7 +3813,7 @@ shifen 十分
 shifou 是否
 shigai 是该
 shigan 实干
-shige 是个 十个 诗歌
+shige 时隔 是个 十个 诗歌
 shigong 是龚
 shigu 事故 世故 是谷
 shiguan 士官
@@ -4372,6 +4372,7 @@ wa 瓦 挖 袜 娃 哇 凹 娲 蛙 洼 佤 腽 劸 咓 唲 啘 嗗 嗢 姽 媧 �
 waer 娃儿
 wai 外 歪 崴 呙 咼 喎 夭 瀤 竵 顡
 waibao 外包
+waibiao 外表
 waibu 外部
 waichu 外出
 waichuan 外传
@@ -4918,7 +4919,7 @@ xugui 徐贵
 xuhong 徐宏
 xuji 续集
 xujia 许加 虚假
-xujiu 酗酒 叙旧
+xujiu 许久 酗酒 叙旧
 xuke 许可
 xukuang 虚框
 xulie 序列
@@ -5285,6 +5286,7 @@ youyan 右眼
 youyao 又要
 youye 有也
 youyi 有意 有益 优异
+youyige 又一个
 youyiyi 有意义
 youyong 游泳
 youyou 又有 有有
