@@ -320,6 +320,7 @@ bushao 不少
 bushi 不是 不时
 bushu 部署
 busuan 不算
+butian 不填
 butong 不同 不通
 butui 不退
 butuo 不妥
@@ -1098,6 +1099,7 @@ duoxing 惰性
 duoyong 多用
 duoyu 多于 多余
 duozhong 多种
+duqu 读取
 duse 堵塞
 dute 独特
 duzhan 独占
@@ -2222,6 +2224,7 @@ jingxiang 镜像
 jingxin 精心
 jingxuan 精选
 jingyan 经验
+jingyin 静音
 jingying 经营 精英
 jingyu 境遇
 jingzheng 竞争
@@ -5369,7 +5372,7 @@ yulong 玉龙
 yulu 预录 玉露
 yumen 郁闷
 yuming 域名
-yun 运 云 允 韵 晕 孕 匀 蕴 酝 筠 芸 耘 陨 纭 殒 愠 氲 狁 熨 郓 恽 昀 韫 郧 伝 傊 勻 叞 呍 员 員 喗 囩 均 夽 奫 妘 媪 媼 尉 尹 怨 惲 愪 慍 抎 抣 暈 枟 榅 樂 橒 殞 氳 沄 涒 涢 温 溳 澐 煇 煴 煾 熅 熉 玧 畇 瘟 盾 眃 磒 秐 筍 筼 篔 紜 緷 緼 縕 縜 繧 缊 耺 腪 苑 荺 菀 蒀 蒕 蒷 蕓 蕰 薀 藴 蘊 蜵 蝹 褞 貟 賱 贇 贠 赟 輼 轀 辒 運 鄆 鄖 醖 醞 鈗 鋆 阭 隕 雲 霣 韗 韞 韻 頵 餫 馧 馻 齫 齳
+yun 云 运 允 韵 晕 孕 匀 蕴 酝 筠 芸 耘 陨 纭 殒 愠 氲 狁 熨 郓 恽 昀 韫 郧 伝 傊 勻 叞 呍 员 員 喗 囩 均 夽 奫 妘 媪 媼 尉 尹 怨 惲 愪 慍 抎 抣 暈 枟 榅 樂 橒 殞 氳 沄 涒 涢 温 溳 澐 煇 煴 煾 熅 熉 玧 畇 瘟 盾 眃 磒 秐 筍 筼 篔 紜 緷 緼 縕 縜 繧 缊 耺 腪 苑 荺 菀 蒀 蒕 蒷 蕓 蕰 薀 藴 蘊 蜵 蝹 褞 貟 賱 贇 贠 赟 輼 轀 辒 運 鄆 鄖 醖 醞 鈗 鋆 阭 隕 雲 霣 韗 韞 韻 頵 餫 馧 馻 齫 齳
 yuncha 允差
 yundao 晕倒
 yundong 运动
