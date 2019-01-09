@@ -1401,6 +1401,7 @@ geiwo 给我
 geiyu 给予
 geji 各级
 gejie 各届
+gekai 隔开
 geke 各科
 gelei 各类
 gelie 割裂
@@ -1732,6 +1733,7 @@ hegui 合规
 hehai 河海
 hehe 和和
 hei 黑 嘿 嗨 嬒 潶 黒
+heibai 黑白
 heichong 黑虫
 heihe 黑盒
 heimingdan 黑名单
