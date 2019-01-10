@@ -419,6 +419,7 @@ ceng 曾 层 蹭 噌 僧 增 層 嶒 橧 竲 繒 缯 驓
 cengbei 曾被
 cengci 层次
 cengdie 层叠
+cengji 层级
 cengjing 曾经
 cengmian 层面
 ceshi 测试
