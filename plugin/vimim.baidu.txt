@@ -410,7 +410,7 @@ caozong 操纵
 caozuo 操作
 ce 策 测 侧 厕 册 恻 側 冊 厠 墄 嫧 帻 幘 廁 惻 憡 拺 敇 柵 栅 測 畟 笧 筞 筴 箣 簎 粣 荝 萗 萴 蓛 赦 齰
 cebian 侧边
-cehua 策划
+cehua 侧滑 策划
 cekong 测控
 celiang 测量
 cema 策马
@@ -817,6 +817,7 @@ daozhui 导锥
 dapai 打牌 大牌
 dapi 大批
 dapian 大篇
+daping 大屏
 daqi 大气
 daquan 大全
 daren 达人
@@ -2391,6 +2392,7 @@ kaifa 开发
 kaifang 开放
 kaige 开个
 kaigong 开工
+kaiguan 开关
 kaihui 开会
 kaiji 开机
 kaikuo 开阔
@@ -3415,6 +3417,7 @@ qingwu 请勿
 qingxi 清晰
 qingxiang 倾向
 qingxin 清新 轻信
+qingxing 情形
 qingxu 情绪
 qingyin 请殷
 qingyong 请用
@@ -3444,7 +3447,7 @@ qixia 其下
 qixian 期限
 qiye 企业
 qiyi 歧义 其一
-qiyong 弃用
+qiyong 启用 弃用
 qiyu 其余
 qiyuan 起源
 qizai 其在
@@ -4128,6 +4131,7 @@ taishao 太少
 taitai 太太
 taitao 台套
 taitou 抬头
+taiyuan 太远
 taizhou 泰州
 tajun 她均
 tale 她了
@@ -4711,6 +4715,7 @@ xiaohai 小孩
 xiaohao 消耗
 xiaohe 校和
 xiaohei 小黑
+xiaohui 销毁
 xiaoji 校级
 xiaojia 销假
 xiaojian 消减
@@ -5070,7 +5075,7 @@ yibian 以便
 yibing 一并
 yibu 异步
 yichang 异常 已唱
-yichu 溢出
+yichu 移除 溢出
 yici 一次 以此
 yidao 驿道
 yideng 一等
