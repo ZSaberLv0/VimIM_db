@@ -1754,6 +1754,7 @@ henduo 很多
 heng 横 衡 恒 哼 亨 蘅 珩 桁 佷 啈 堼 姮 恆 悙 橫 涥 烆 狟 胻 脝 訇 鑅 鴴 鵆 鸻
 hengao 很高
 hengda 恒大
+hengping 横屏
 hengrou 横肉
 hengxiang 横向
 henhao 很好
@@ -3998,6 +3999,7 @@ shuojin 说仅
 shuoming 说明
 shuoni 说你
 shuoshi 硕士 说事
+shuping 竖屏
 shuqi 暑期
 shuqing 树青
 shuru 输入
