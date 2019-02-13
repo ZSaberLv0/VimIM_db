@@ -3976,6 +3976,7 @@ shuiwu 税务
 shuiya 谁呀
 shuji 书记 书籍
 shuju 数据
+shujuku 数据库
 shuli 梳理
 shulian 熟练
 shuliang 数量
