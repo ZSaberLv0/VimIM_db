@@ -5511,6 +5511,8 @@ zhan 战 展 站 占 沾 斩 辗 颤 粘 盏 崭 瞻 绽 蘸 湛 詹 毡 栈 谵
 zhandian 站点
 zhandou 战斗
 zhang 长 张 章 丈 掌 涨 帐 障 账 胀 仗 杖 彰 璋 蟑 樟 瘴 漳 嶂 鄣 獐 仉 幛 嫜 仧 傽 墇 帳 幥 弡 張 慞 扙 承 暲 涱 漲 痮 瘬 瞕 礃 粀 粻 脹 蔁 賬 遧 鏱 鐣 長 镸 鞝 餦 騿 鱆 麞
+zhangai 障碍
+zhangaiwu 障碍物
 zhangbei 张备
 zhangcheng 章程
 zhangdan 账单
