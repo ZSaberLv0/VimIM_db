@@ -66,6 +66,7 @@ banhe 班和
 bani 把你
 banji 班级
 banjiao 半角
+banjing 半径
 bankuai 版块
 banlv 伴侣
 banshi 版式
@@ -632,6 +633,7 @@ chushihua 初始化
 chuti 出题
 chuxi 出席
 chuxian 出现
+chuyi 除以
 chuyu 出于
 chuzai 处在 出在
 chuzhang 处长
@@ -1299,7 +1301,7 @@ fumei 赴美
 fumian 负面
 fumu 父母
 fushi 复试 服饰
-fushu 附属
+fushu 负数 附属
 futu 附图
 fuwu 服务
 fuwuqi 服务器
@@ -2266,6 +2268,7 @@ jinxing 进行
 jinxiu 进修
 jinyan 金焰
 jinyi 进益 近义
+jinyong 禁用
 jinyou 仅有
 jinzai 仅在
 jinzao 尽早
@@ -2527,6 +2530,7 @@ kualei 跨类
 kuan 款 宽 髋 完 寛 寬 梡 棵 欵 歀 窽 窾 鑧 顆 颗 髖
 kuandu 宽度
 kuang 框 况 狂 矿 旷 眶 筐 匡 哐 邝 诓 夼 诳 圹 纩 贶 丱 儣 兄 劻 匩 卝 壙 岲 廣 忹 恇 懬 懭 抂 昿 曠 枉 況 洭 湟 爌 狅 眖 矌 砿 硄 磺 礦 穬 筺 絋 絖 纊 誆 誑 貺 軖 軠 軦 軭 迋 逛 邼 鄺 鉱 鋛 鑛 鵟 黋
+kuangao 宽高
 kuangding 框定
 kuanghuan 狂欢
 kuangjia 框架
@@ -5326,6 +5330,7 @@ yuangong 员工
 yuanhu 院胡
 yuanji 院级
 yuanjian 原件
+yuanjiao 圆角
 yuanlai 原来
 yuanli 原理 院里
 yuanping 远平
@@ -5340,7 +5345,7 @@ yuanwang 愿望
 yuanwen 原文
 yuanxi 院系
 yuanxiao 院校
-yuanxing 原型
+yuanxing 圆形 原型
 yuanxu 院徐
 yuanxue 媛薛
 yuanyi 愿意
