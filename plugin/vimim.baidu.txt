@@ -811,6 +811,7 @@ daole 到了
 daolun 导论
 daoru 导入
 daoshi 倒是 导师 到时
+daoshu 倒数
 daowo 到我
 daoyan 导演
 daozhi 导致
@@ -1439,7 +1440,8 @@ geshi 格式
 geshihua 格式化
 geshu 个数
 geti 各题
-gewei 各位
+gewei 个位 各位
+geweishu 个位数
 gewu 歌舞
 gexiang 各项
 gexiao 各校
@@ -4927,6 +4929,7 @@ xuesheng 学生
 xueshi 学时
 xueshu 学术
 xuetang 血糖
+xuetiao 血条
 xuewei 学位 穴位
 xuexi 学习
 xuexiao 学校
@@ -5333,6 +5336,7 @@ yuanjian 原件
 yuanjiao 圆角
 yuanlai 原来
 yuanli 原理 院里
+yuanpan 圆盘
 yuanping 远平
 yuansheng 原生
 yuanshi 原始
