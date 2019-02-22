@@ -470,6 +470,7 @@ chanpin 产品
 chansheng 产生
 chanshu 阐述
 chanye 产业
+chanyin 颤音
 chao 超 朝 潮 炒 吵 抄 嘲 钞 绰 巢 晁 焯 怊 耖 仦 仯 剿 劋 勦 唠 嘮 巐 巣 弨 摷 槱 樔 欩 涛 漅 濤 焣 煼 牊 眧 窲 粆 紹 綤 綽 縐 繛 绉 绍 罺 觘 訬 謅 謿 诌 趠 趫 轈 鄛 鈔 麨 鼂 鼌
 chaobiao 超标
 chaobu 超不
@@ -2038,6 +2039,7 @@ jianshu 简述
 jiansuo 检索
 jianti 简体
 jiantie 剪贴
+jianting 监听
 jianwo 见我
 jianxian 艰险
 jianxin 艰辛
@@ -2660,6 +2662,7 @@ liangzheng 两证
 liangzhong 两种 良中
 liangzhu 良筑
 lianhe 联合
+lianji 连击
 lianjian 联建
 lianjie 连接 链接
 lianjiu 连就
@@ -3270,6 +3273,7 @@ pin 品 贫 拼 频 聘 拚 姘 嫔 榀 颦 牝 匕 嚬 娉 嬪 朩 汖 泵 玭 
 pinbo 拼搏
 pinde 拼的
 pindie 拼爹
+pindu 频度
 pinfan 频繁
 ping 平 评 瓶 凭 萍 乒 屏 苹 坪 枰 娉 俜 鲆 倗 冯 凴 呯 塀 娦 屛 岼 帡 帲 幈 慿 憑 檘 泙 洴 涄 淜 焩 玶 甁 甹 砯 砰 硑 秤 竮 箳 簈 缾 聠 胓 艵 荓 蓱 蘋 蚲 蛢 評 軿 輧 郱 鉼 頩 馮 鮃
 pingdan 平淡
