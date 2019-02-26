@@ -546,6 +546,7 @@ chifan 吃饭
 chiku 吃苦
 chixu 持续
 chong 重 冲 充 崇 虫 宠 憧 忡 艟 茺 舂 铳 偅 傭 僮 喠 嘃 埫 寵 崈 徸 憃 揰 摏 樁 沖 浺 涌 漴 潼 烛 爞 珫 痋 盅 祌 种 種 緟 罿 翀 茧 蝩 蟲 衝 褈 蹖 蹱 酮 銃 隀
+chongdingxiang 重定向
 chongfen 充分
 chongfeng 重逢
 chongfu 重复
@@ -974,6 +975,7 @@ dingsheng 鼎盛
 dingshi 定时
 dingti 定题
 dingwei 定位
+dingxiang 定向
 dingyi 定义
 dingyu 定于
 dingzhang 订张
@@ -2766,6 +2768,7 @@ liukong 留空
 liulan 浏览
 liulanqi 浏览器
 liule 刘乐
+liuliang 流量
 liunian 刘念
 liushi 流失
 liutu 流图
@@ -3542,6 +3545,7 @@ rangta 让他 让她 让它
 rangwo 让我
 ranhou 然后
 rao 扰 绕 饶 娆 桡 荛 嬈 挠 撓 擾 橈 犪 穘 繚 繞 缭 蕘 蟯 襓 遶 隢 饒
+raoguo 绕过
 re 热 惹 喏 偌 捼 渃 熱 若 蹃
 remen 热门
 ren 人 任 认 忍 仁 韧 刃 纫 饪 壬 仞 稔 葚 荏 妊 轫 衽 亻 仭 儿 刄 姙 屻 忈 忎 恁 扨 朲 杒 栠 栣 梕 棯 涊 牣 秂 秹 紉 紝 絍 綛 纴 肕 腍 芢 荵 菍 袵 訒 認 讱 躵 軔 釰 鈓 銋 靭 靱 韌 飪 餁 魜 鵀
