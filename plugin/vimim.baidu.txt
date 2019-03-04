@@ -103,6 +103,7 @@ baoxiao 报销
 baoxiu 报修
 baoyan 报验
 baoyou 抱有
+baozha 爆炸
 baozhang 保障
 baozheng 保证
 baozhuang 包装
