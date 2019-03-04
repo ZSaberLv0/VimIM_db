@@ -1219,6 +1219,7 @@ fapiao 发票
 faqi 发起
 faren 法人
 fasan 发散
+fashe 发射
 fasheng 发生
 fashou 发收
 fasong 发送
