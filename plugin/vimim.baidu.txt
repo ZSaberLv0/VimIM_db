@@ -2699,6 +2699,7 @@ lieju 列举
 liele 列了
 lieming 列名
 liewei 列为
+liewen 裂纹
 liezai 列在
 ligang 离岗
 ligui 李贵
