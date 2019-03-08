@@ -3396,7 +3396,7 @@ qifei 起飞
 qigao 奇高
 qiguai 奇怪
 qihe 契合
-qijian 期间 器件
+qijian 起见 期间 器件
 qijiyinqiao 奇技淫巧
 qiju 器具
 qikan 期刊
