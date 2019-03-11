@@ -2024,6 +2024,7 @@ jianjie 简介 间接
 jianjixingshi 见机行事
 jianjun 建军
 jiankang 健康
+jiankong 监控
 jianku 艰苦
 jiankuang 简况
 jianli 建立 简历
