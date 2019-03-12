@@ -562,7 +562,7 @@ chongwen 重温
 chongxie 重写
 chongxin 重新
 chongzai 重载
-chongzhi 重制 充值
+chongzhi 重置 重制 充值
 chongzhuang 重装
 chou 抽 愁 仇 丑 筹 臭 酬 绸 踌 瞅 惆 畴 稠 雠 俦 帱 瘳 丒 侴 偢 儔 吜 嚋 圳 妯 婤 媿 嬦 幬 怞 懤 扭 掫 揄 搊 擣 杻 杽 栦 椆 檮 殠 溴 燽 牰 犨 犫 畤 疇 皗 盩 眣 矁 篘 籌 紬 䌷 絒 綢 臰 菗 薵 裯 詶 謅 譸 讎 讐 诌 诪 跾 躊 遚 酧 醔 醜 醻 鈕 钮 雔 魗 鮘 鯈 鲋
 choucuo 筹措
@@ -2394,6 +2394,7 @@ juxian 局限
 juxing 矩形
 juyou 具有
 juyuan 剧院
+juzhong 居中
 juzi 巨资
 juzun 举樽
 ka 卡 咖 喀 咔 佧 胩 呿 咯 垰 珈 衉 裃 鉲
@@ -2885,6 +2886,7 @@ manqin 满勤
 manzu 满足
 mao 毛 冒 猫 贸 矛 帽 貌 茅 茂 髦 卯 耄 瑁 锚 懋 袤 铆 峁 牦 蟊 泖 昴 茆 旄 蝥 瞀 侔 冃 冇 冐 勖 務 堥 夘 媢 嵍 愗 戼 描 暓 枆 楙 毣 毷 氂 渵 牟 犛 獏 皃 眊 秏 笷 緢 罞 耗 芼 萺 蓩 蛑 蝐 覒 貇 貓 貿 軞 鄚 鄮 酕 鉚 鉾 錨 霿 髳 鶜
 maochong 冒充
+maodian 锚点
 maoyu 冒雨
 matao 马涛
 matou 码头
