@@ -787,6 +787,7 @@ danlie 单列
 danmei 但每
 danmu 弹幕
 danni 但你
+danren 单人
 danshen 单身
 danshi 但是 单是
 danta 但她 但它
