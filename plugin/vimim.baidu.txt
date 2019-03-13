@@ -1902,6 +1902,7 @@ huifu 恢复 回复
 huigu 回顾
 huigui 回归
 huiguo 回国
+huihe 回合
 huihua 会话
 huihui 慧慧
 huijia 回家
