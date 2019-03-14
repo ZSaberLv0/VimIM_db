@@ -943,6 +943,7 @@ diaohuan 调换
 diaoke 调课
 diaole 调了
 diaonan 刁难
+diaoxian 掉线
 diaoyan 调研
 diaoyong 调用
 diaozhuo 雕琢
@@ -1543,6 +1544,7 @@ guanhe 关和
 guanji 关机
 guanjia 管家
 guanjian 关键
+guanka 关卡
 guanke 管科
 guankong 管控
 guankui 管窥
