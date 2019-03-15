@@ -582,6 +582,7 @@ chuanda 传达
 chuandi 传递
 chuang 创 窗 床 闯 幢 疮 怆 仓 仺 倉 傸 刅 刱 剏 剙 創 噇 囪 囱 愴 戧 摐 朣 橦 漴 漺 牀 牎 牕 瘡 磢 窓 窻 膧 舂 葱 蔥 闖
 chuangban 创办
+chuangguan 闯关
 chuangjian 创建
 chuangjin 闯劲
 chuangkou 窗口
@@ -4370,6 +4371,7 @@ tuidan 退单
 tuidao 推到 推导
 tuiguang 推广
 tuihuan 退还
+tuihui 退回
 tuijian 推荐
 tuijie 推介
 tuijin 推进
@@ -5982,6 +5984,7 @@ zuichou 最丑
 zuida 最大
 zuidi 最低
 zuiduan 最短
+zuiduo 最多
 zuihao 最好
 zuihou 最后
 zuijin 最近
