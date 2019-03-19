@@ -4343,6 +4343,7 @@ tou 头 投 偷 透 钭 骰 亠 偸 埱 妵 婾 媮 愉 敨 斢 殕 紏 綉 緰 
 toubu 头部
 touchu 透出
 touchuan 透传
+toufang 投放
 touming 透明
 touru 投入
 touteng 头疼
