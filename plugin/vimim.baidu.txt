@@ -4981,6 +4981,7 @@ xuni 虚拟
 xunlian 训练
 xunmi 寻觅
 xunsu 迅速
+xunwen 询问
 xunzhao 寻找
 xunzi 训子
 xuqiu 需求
