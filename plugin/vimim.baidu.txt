@@ -700,6 +700,7 @@ cunben 村本
 cunchu 存储
 cundai 存贷
 cundang 存档
+cunfang 存放
 cunhuo 存货
 cunpan 存盘
 cunqu 存取
@@ -1114,6 +1115,7 @@ duozhong 多种
 duqu 读取
 duse 堵塞
 dute 独特
+duxie 读写
 duzhan 独占
 duzhe 读者
 duzi 肚子
@@ -5706,7 +5708,7 @@ zhichu 之处 指出 之初
 zhidao 知道 直到 指导 之道
 zhide 值得
 zhiding 指定 制定
-zhidu 制度
+zhidu 只读 制度
 zhifa 指法
 zhifeng 之风
 zhifu 支付
