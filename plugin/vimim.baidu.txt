@@ -3944,6 +3944,7 @@ shiyu 是与 时与
 shizai 实在 是在
 shizhan 实战
 shizheng 是正
+shizhi 食指
 shizhong 始终
 shizi 师资
 shou 收 手 受 首 授 守 售 瘦 寿 兽 狩 绶 艏 収 嘼 垨 壽 夀 扌 掱 敊 涛 涭 濤 熟 獣 獸 痩 綬 膄 醻 鏉
@@ -3991,6 +3992,7 @@ shouyan 手眼
 shouyao 受邀
 shouye 首页
 shouyi 受益
+shouzhang 手掌
 shouzhi 手指 收支
 shu 书 数 术 属 输 树 述 熟 束 署 殊 舒 叔 鼠 疏 淑 抒 薯 梳 暑 竖 蜀 恕 墅 孰 漱 枢 俞 赎 黍 蔬 曙 倏 庶 戍 塾 澍 姝 纾 秫 毹 殳 疋 菽 丨 沭 摅 腧 侸 俆 俶 倐 儵 兪 咰 售 嗽 娶 婌 孎 尌 尗 屬 庻 忬 怷 悆 捈 捒 掓 揄 攄 數 暏 書 朮 朱 杸 杼 柕 樞 樹 橾 毺 氀 涑 潄 潏 潻 濖 瀭 焂 瑹 璹 疎 癙 稌 竪 籔 糬 紓 紵 絉 綀 翛 荗 荼 蒁 蒣 薥 薮 藪 藷 虪 蠴 蠾 術 裋 襡 襩 謶 豎 豫 贖 跾 踈 軗 輸 透 鄃 野 鉥 錰 鏣 鐲 镯 陎 除 隃 鮛 鱪 鱰 鵨 鶐 鷸 鸀 鹬 鼡
 shua 刷 耍 唰 唆 涮 誜 选 選
@@ -4666,6 +4668,7 @@ wuliu 物流 五六
 wulong 吴龙
 wulun 无论
 wumeng 吴梦
+wumingzhi 无名指
 wunao 无脑
 wunian 五年
 wuqiong 无穷
@@ -4819,6 +4822,7 @@ xiaoyi 效益
 xiaoyu 小于
 xiaoyuan 校园 校院
 xiaozhang 校长 小张 销账
+xiaozhi 小指
 xiaozu 小组
 xiaqu 下去
 xiashu 下述
@@ -4946,6 +4950,7 @@ xiuhui 修回
 xiuman 袖漫
 xiuyang 修养
 xiuzheng 修正
+xiuzi 袖子
 xiwang 希望
 xiyao 细要
 xiyin 吸引
@@ -5764,6 +5769,7 @@ zhishou 之首
 zhishu 植树 知书
 zhisi 至四
 zhisu 之苏
+zhitou 指头
 zhiwai 之外
 zhiwang 指望
 zhiwei 职位 指委
@@ -5827,7 +5833,7 @@ zhongyong 中用
 zhongyou 中有
 zhongyu 终于
 zhongyuan 忠愿 中原
-zhongzhi 终止
+zhongzhi 中指 终止
 zhongzhong 种种
 zhongzhuan 中转
 zhou 周 州 洲 粥 舟 皱 骤 轴 宙 咒 昼 肘 帚 胄 纣 诌 绉 妯 碡 啁 荮 籀 繇 酎 伷 侏 侜 倜 僽 冑 呪 咮 啄 喌 喙 噣 嚋 婤 府 徟 扭 掫 晝 晭 柚 椆 注 洀 淍 炿 烐 珘 甃 疛 皺 盩 睭 矪 祝 箒 籒 籕 粙 紂 紬 縐 翢 胕 舳 菷 葤 薵 詋 詶 調 諏 謅 譸 诪 诹 调 賙 赒 軸 輈 輖 辀 逐 週 郮 鈾 銂 铀 霌 駎 駲 騆 騶 驟 驺 鬻 鯞 鵃 鸼
@@ -6069,6 +6075,7 @@ zuoxi 作息
 zuoxia 左下
 zuoxiajiao 左下角
 zuoxie 做些
+zuoyan 左眼
 zuoye 作业 昨夜
 zuoyong 作用
 zuoyou 左右
