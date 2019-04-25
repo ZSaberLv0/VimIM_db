@@ -1553,6 +1553,7 @@ guanhe 关和
 guanji 关机
 guanjia 管家
 guanjian 关键
+guanjie 关节
 guanka 关卡
 guanke 管科
 guankong 管控
@@ -3711,6 +3712,7 @@ shang 上 商 伤 尚 赏 殇 裳 晌 觞 熵 墒 绱 垧 丄 仩 傷 场 埫 �
 shangban 上班
 shangbanshen 上半身
 shangbao 上报
+shangbu 上部
 shangche 上车
 shangcheng 商城
 shangchuan 上传
@@ -4682,6 +4684,7 @@ xi 西 系 息 希 喜 囍 席 习 细 戏 吸 洗 惜 稀 悉 析 夕 牺 袭 �
 xia 下 夏 吓 峡 厦 侠 狭 霞 瞎 暇 虾 唬 辖 遐 匣 黠 瑕 呷 狎 柙 硖 瘕 罅 丅 俠 假 傄 叚 呀 哧 嗄 嗑 嚇 圷 埉 夓 夾 岈 峽 廈 徦 懗 押 捾 搳 敮 昰 梺 欱 歃 毳 浃 浹 溊 炠 烚 煆 狹 珨 疜 疨 睱 硤 碬 磍 祫 笚 筪 給 縀 縖 给 翈 舝 舺 芐 葭 蕸 蝦 螛 諕 謑 谺 赮 轄 郃 鍜 鎋 鏬 閕 閜 陜 陿 颬 騢 魻 鰕 鶷
 xiaban 下班
 xiabing 夏冰
+xiabu 下部
 xiache 下车
 xiaci 下次 瑕疵
 xiade 下的
