@@ -3934,7 +3934,7 @@ shiwu 事务
 shixi 实习
 shixian 实现
 shixiang 事项 是想
-shixiao 时效 失效
+shixiao 失效 时效
 shixiaoxing 时效性
 shixing 实行
 shixu 是徐
