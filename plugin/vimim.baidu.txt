@@ -503,6 +503,7 @@ chengce 成册
 chengdan 承担
 chengde 承得
 chengdu 程度 成都
+chengfa 惩罚
 chengfeng 乘风
 chenggong 成功
 chengguan 城管
@@ -3810,6 +3811,7 @@ shengle 省了
 shengli 胜利
 shenglue 省略
 shengming 声明 生命
+shengmingzhi 生命值
 shengqi 升起
 shengqian 省钱
 shengqing 省情
