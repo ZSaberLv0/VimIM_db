@@ -379,6 +379,7 @@ caiyong 采用
 caiyou 才有
 caiyuan 财院
 caiyun 彩云
+caizhi 材质
 caizhun 才准
 can 参 餐 残 惨 灿 惭 掺 蚕 璨 孱 骖 黪 粲 傪 儏 參 叄 叅 喰 嘇 噆 囋 嬠 嬱 嵾 慘 慙 慚 憯 戔 摲 朁 殘 淺 湌 澯 燦 爘 穇 篸 薒 蝅 蠶 蠺 謲 蹔 鏒 飡 飱 驂 鯵 鰺 鲹 黲
 canci 残疵
@@ -3561,6 +3562,7 @@ qunluo 群裸
 qunnei 群内
 qunzhong 群众
 qunzhu 群主
+qunzi 裙子
 qunzu 群组
 qupiao 取票
 quqi 曲奇
@@ -3756,6 +3758,7 @@ shangyao 上要
 shangyu 赏玉
 shangzhe 伤者
 shanhou 善后 缮后
+shanjian 删减
 shanmei 山美
 shanqu 删去
 shanshan 珊珊
@@ -4583,6 +4586,7 @@ weizhang 伟张
 weizhi 位置 未知
 weizhong 为重
 weizhu 为主
+weizhun 为准
 wen 文 问 闻 温 稳 吻 纹 蚊 雯 紊 瘟 汶 刎 阌 璺 免 呅 呚 呡 問 塭 妏 娩 彣 忞 忟 愠 慍 抆 揾 搵 昧 昷 桽 榅 榲 歾 殁 殟 渂 溫 炆 煴 珳 瑥 瘒 眼 砇 穏 穩 笏 紋 絻 緼 縕 缊 聞 肳 脕 脗 芠 莬 蕰 蕴 薀 藴 蘊 蚉 螡 蟁 褞 豱 輼 轀 辒 鈫 鎾 閺 閿 闅 闦 限 韞 韫 顐 饂 馼 魰 鰛 鰮 鳁 鳼 鴍 鴖 鼤
 wenan 文案
 wenben 文本
