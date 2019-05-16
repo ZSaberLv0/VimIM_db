@@ -5824,6 +5824,7 @@ zhongguo 中国
 zhonghui 钟晖
 zhongjian 中间 中检
 zhongjun 中均
+zhongliang 重量
 zhonglie 中列
 zhongmei 中美
 zhongnian 中年
