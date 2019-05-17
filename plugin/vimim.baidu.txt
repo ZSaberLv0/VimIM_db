@@ -764,7 +764,7 @@ danbi 胆壁
 danbiao 单表
 danchu 淡出
 danchun 单纯
-danci 单词
+danci 单次 单词
 dancong 但从
 dandan 淡淡 丹丹
 dandang 担当
@@ -785,7 +785,7 @@ dangwei 党委
 dangyuan 党员
 dangzhu 挡住
 dangzu 党组
-danji 单机
+danji 单击 单机
 danju 单据
 danli 单利
 danliang 胆量
@@ -1885,6 +1885,7 @@ huanjie 环节
 huanjing 环境
 huanle 欢乐
 huanshan 环山
+huansuan 换算
 huantai 换胎
 huanwei 换为
 huanxing 环形
@@ -2062,10 +2063,12 @@ jianshao 减少
 jianshe 建设
 jianshi 坚实
 jianshu 简述
+jiansu 减速
 jiansuo 检索
 jianti 简体
 jiantie 剪贴
 jianting 监听
+jiantou 箭头
 jianwo 见我
 jianxian 艰险
 jianxin 艰辛
@@ -2129,6 +2132,8 @@ jiaru 加入
 jiashang 加上
 jiashe 假设
 jiashu 加书
+jiasu 加速
+jiasudu 加速度
 jiating 家庭
 jiawu 甲午
 jiaxiang 家乡
@@ -2958,6 +2963,7 @@ meiyan 美颜
 meiyou 没有
 meiyuan 美元
 meizai 没在
+meizhen 每帧
 meizhou 每周
 men 们 门 闷 扪 懑 焖 钔 亹 們 怋 悗 悶 惛 懣 捫 暪 椚 殙 汶 満 满 滿 燜 玟 玣 玧 璊 瞞 穈 菛 虋 鍆 門 閅 鞔
 menchuang 门窗
@@ -5487,6 +5493,7 @@ yunlu 云路
 yunnan 云南
 yunpan 云盘
 yunshu 运输
+yunsu 匀速
 yunsuan 运算
 yunxing 运行
 yunxu 允许
@@ -5708,7 +5715,7 @@ zhengqu 争取
 zhengque 正确
 zhengru 正如
 zhengshi 正式 证实 正事
-zhengshu 证书
+zhengshu 正数 证书
 zhengti 整体
 zhengwan 整完
 zhengwen 正文
