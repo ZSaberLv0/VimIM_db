@@ -1253,6 +1253,8 @@ feiye 扉页
 feiyong 费用
 fen 分 份 纷 奋 愤 粉 氛 芬 坟 焚 粪 忿 吩 汾 棼 鼢 玢 酚 偾 瀵 鲼 僨 匪 喷 噴 坆 坋 墳 奔 奮 妢 岎 帉 幩 弅 愍 憤 扮 拚 敃 昐 朆 朌 枌 梤 棻 橨 歕 濆 炃 燌 燓 燔 獖 盼 瞓 砏 秎 竕 糞 紛 羒 羵 翂 肦 膹 葐 蒶 蕡 蚠 蚡 衯 訜 豮 豶 賁 贲 躮 轒 鈖 錀 鐼 隫 雰 頒 颁 餴 饙 馚 馩 魵 鱝 鳻 黂 黺 鼖
 fenbi 粉笔
+fenbian 分辨
+fenbianlv 分辨率
 fenbie 分别
 fenbu 分布
 fencheng 分成
@@ -3863,6 +3865,7 @@ shequ 社区
 sheshi 设施
 shetou 舌头
 shewai 涉外
+shewei 设为
 shexiang 设想
 sheying 摄影
 shezhang 社长
@@ -4379,6 +4382,7 @@ tongxun 通讯
 tongyang 同样
 tongyi 统一 同一 同意
 tongyige 同一个
+tongyitao 同一套
 tongyong 通用
 tongzhi 通知 同志
 tongzhuo 同桌
