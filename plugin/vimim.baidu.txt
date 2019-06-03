@@ -3795,7 +3795,7 @@ shebei 设备
 shefa 设法
 shehui 社会
 shei 谁
-sheji 设计 涉及
+sheji 射击 设计 涉及
 shejiao 社交
 shelie 涉猎
 shemi 奢靡
@@ -4339,6 +4339,7 @@ tingpan 亭潘
 tingshuo 听说
 tingting 婷婷
 tingyou 挺有
+tingzhi 停止
 tingzhuo 听着
 tini 替你
 tiqu 提取
@@ -4435,6 +4436,7 @@ tuiyou 推优
 tuizheng 推证
 tuji 图及
 tujie 图解
+tujin 突进
 tujing 途径
 tukuai 图快
 tun 吞 屯 饨 褪 臀 囤 豚 暾 氽 吨 吴 呑 啍 噋 坉 庉 忳 憞 旽 朜 汭 沌 涒 炖 焞 燉 畽 窀 純 纯 肫 膯 臋 芚 蜳 豘 軘 逐 錪 霕 飩 魨 鲀 黗
@@ -4675,6 +4677,7 @@ wucong 无从
 wuda 武大
 wude 物的
 wudeng 五等
+wudi 无敌
 wudong 吴董
 wuduan 武断
 wufa 无法
@@ -5036,6 +5039,7 @@ xujia 许加 虚假
 xujiu 许久 酗酒 叙旧
 xuke 许可
 xukuang 虚框
+xuli 蓄力
 xulie 序列
 xulun 绪论
 xumeng 许孟
