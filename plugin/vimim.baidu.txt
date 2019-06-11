@@ -400,6 +400,7 @@ canshu 参数
 canyin 餐饮
 canyu 参与
 canyue 参阅
+canzhan 参战
 canzhao 参照
 cao 草 艹 操 曹 糙 嘈 槽 螬 艚 漕 傮 屮 嶆 愺 慅 慒 懆 撡 曺 澡 肏 艸 蓸 褿 襙 造 鄵 鏪 鐰 騲 鼜
 caocong 曹聪
@@ -5652,7 +5653,7 @@ zhankai 展开
 zhansheng 战胜
 zhanshi 展示
 zhanwang 展望
-zhanwei 站位
+zhanwei 占位 站位
 zhanxia 站下
 zhanxian 展现
 zhanxiu 展袖
