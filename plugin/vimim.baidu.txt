@@ -1925,6 +1925,7 @@ huifei 会费
 huifu 恢复 回复
 huigu 回顾
 huigui 回归
+huigun 回滚
 huiguo 回国
 huihe 回合
 huihua 会话
