@@ -5284,6 +5284,7 @@ yinsu 因素
 yinwei 因为
 yinwen 阴纹
 yinxiang 印象 音箱
+yinxiao 音效
 yinxing 殷星 隐形
 yinyan 引言
 yinyong 引用
