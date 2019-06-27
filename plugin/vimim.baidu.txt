@@ -1118,7 +1118,7 @@ duoxiang 多项
 duoxie 多些
 duoxing 惰性
 duoyong 多用
-duoyu 多于 多余
+duoyu 多余 多于
 duozhong 多种
 duqu 读取
 duse 堵塞
@@ -1924,7 +1924,7 @@ huide 会的
 huidiao 回调
 huifang 回放
 huifei 会费
-huifu 恢复 回复
+huifu 回复 恢复
 huigu 回顾
 huigui 回归
 huigun 回滚
@@ -2267,6 +2267,7 @@ jinghua 精化
 jingji 经济
 jingjian 精简
 jingli 经理 经历
+jingong 仅供
 jingqing 敬请
 jingque 精确
 jingsai 竞赛
@@ -2849,6 +2850,7 @@ longqiao 龙巧
 lou 楼 陋 漏 搂 喽 篓 偻 娄 髅 蝼 镂 蒌 嵝 耧 瘘 僂 嘍 塿 婁 寠 屚 嶁 廔 慺 摟 樓 溇 漊 熡 牢 甊 瘺 瘻 瞜 窶 簍 耬 膢 艛 蔞 螻 謱 軁 遱 鏤 露 鞻 髏
 loude 漏的
 loufang 楼房
+loukong 镂空
 loule 漏了
 loupan 楼盘
 loushang 楼上
