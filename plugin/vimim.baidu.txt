@@ -880,6 +880,7 @@ dema 的马 的吗
 den 扥 扽
 deng 等 登 灯 邓 凳 瞪 蹬 噔 磴 戥 镫 簦 嶝 僜 墱 嬁 憕 橙 櫈 澄 燈 璒 竳 艠 覴 豋 鄧 鐙 隥
 dengbi 等比
+dengbili 等比例
 dengbing 等并
 dengdai 等待
 dengdao 等到
@@ -2801,6 +2802,7 @@ litao 李涛
 litu 力图
 litui 离退
 liu 六 留 流 陆 刘 溜 柳 碌 瘤 榴 浏 硫 琉 遛 馏 镏 骝 绺 锍 旒 熘 鎏 鹨 偻 僂 劉 嚠 塯 媹 嬼 嵧 廇 懰 抡 斿 旈 栁 桞 桺 橊 橮 沠 泖 泵 游 漻 澑 瀏 熮 珋 瑠 瑬 璢 畂 畄 畱 疁 癅 磂 磟 綹 罶 羀 翏 聊 膢 蒌 蒥 蓅 蓼 蔞 藰 蟉 裗 蹓 鉚 鋶 鎦 鏐 鐂 铆 镠 陸 雡 霤 飀 飂 飅 飗 餾 駠 駵 騮 驑 鬸 鰡 鶹 鷚 鹠 麍
+liubai 留白
 liuchang 流畅
 liuchen 刘陈
 liucheng 流程
@@ -4725,6 +4727,7 @@ xiabu 下部
 xiache 下车
 xiaci 下次 瑕疵
 xiade 下的
+xiafang 下方
 xiaguan 下关
 xiake 下课
 xialai 下来
