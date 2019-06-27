@@ -1772,6 +1772,7 @@ heibai 黑白
 heichong 黑虫
 heihe 黑盒
 heimingdan 黑名单
+heise 黑色
 hejia 核假
 hejian 何剑
 hejiu 喝酒
