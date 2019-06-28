@@ -2102,6 +2102,7 @@ jiaocuo 交错
 jiaoda 较大
 jiaodai 交代 交待
 jiaodao 交到
+jiaodi 较低
 jiaodu 角度
 jiaoduo 较多
 jiaofang 交房
