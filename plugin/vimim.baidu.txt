@@ -2996,6 +2996,7 @@ mianbao 面包
 miandui 面对
 mianfei 免费
 mianlin 面临
+mianmu 面目
 mianqiang 勉强
 mianshi 免试 面试 面食
 miantan 面谈
