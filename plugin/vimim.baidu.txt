@@ -604,6 +604,7 @@ chuanmei 传媒
 chuanru 传入
 chuanshu 传输
 chuantong 传统
+chuantou 穿透
 chuanzhen 传真
 chuban 出版
 chubu 初步
