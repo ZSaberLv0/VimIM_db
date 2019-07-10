@@ -321,6 +321,7 @@ buru 不如 不辱 步入
 bushang 不上
 bushao 不少
 bushi 不是 不时
+bushou 不受
 bushu 部署
 busuan 不算
 butian 不填
@@ -578,6 +579,7 @@ chouma 臭骂
 chouqian 筹钱
 chouqu 抽取
 chouwei 筹委
+chouxiang 抽象
 chouyan 抽烟
 chouzi 筹资
 chu 出 处 除 初 楚 触 储 础 厨 畜 躇 橱 雏 矗 怵 锄 杵 搐 绌 黜 褚 蜍 蹰 刍 滁 楮 憷 亍 樗 俶 傗 儊 儲 処 助 嘼 埱 媰 岀 幮 廚 慉 懨 拀 摢 摴 敊 斶 柠 椘 榋 槒 橻 檚 櫉 櫖 櫥 欪 歜 涂 淑 滀 濋 炪 犓 珿 琡 璴 硫 礎 祝 禇 竌 竐 篨 絀 絮 耝 耡 臅 芻 菆 著 蒢 蒭 蓫 蕏 藸 處 蟵 蠩 觕 觸 詘 諔 諸 诎 诸 豖 豠 貙 趎 跦 踀 踰 躕 鄐 鉏 鋤 閦 雛 鶵 鸀 齣 齭 齼
