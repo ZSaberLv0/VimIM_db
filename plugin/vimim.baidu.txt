@@ -1334,6 +1334,8 @@ fuwuqi 服务器
 fuxi 复习
 fuxian 复现
 fuxiu 辅修
+fuxuan 复选
+fuxuankuang 复选框
 fuyan 附言 敷衍
 fuyi 辅以
 fuyong 复用
@@ -5420,6 +5422,7 @@ youxiao 有效
 youxie 有些 又谢
 youxingqu 有兴趣
 youxiu 优秀
+youxu 有序
 youya 优雅
 youyan 右眼
 youyao 又要
